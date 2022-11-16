@@ -1,0 +1,12 @@
+C:\Users\POWER\source\repos\PruebaLeonardo\EntitiesNeoris\bin\Debug\net5.0\EntitiesNeoris.deps.json
+C:\Users\POWER\source\repos\PruebaLeonardo\EntitiesNeoris\bin\Debug\net5.0\EntitiesNeoris.dll
+C:\Users\POWER\source\repos\PruebaLeonardo\EntitiesNeoris\bin\Debug\net5.0\ref\EntitiesNeoris.dll
+C:\Users\POWER\source\repos\PruebaLeonardo\EntitiesNeoris\bin\Debug\net5.0\EntitiesNeoris.pdb
+C:\Users\POWER\source\repos\PruebaLeonardo\EntitiesNeoris\obj\Debug\net5.0\EntitiesNeoris.csproj.AssemblyReference.cache
+C:\Users\POWER\source\repos\PruebaLeonardo\EntitiesNeoris\obj\Debug\net5.0\EntitiesNeoris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POWER\source\repos\PruebaLeonardo\EntitiesNeoris\obj\Debug\net5.0\EntitiesNeoris.AssemblyInfoInputs.cache
+C:\Users\POWER\source\repos\PruebaLeonardo\EntitiesNeoris\obj\Debug\net5.0\EntitiesNeoris.AssemblyInfo.cs
+C:\Users\POWER\source\repos\PruebaLeonardo\EntitiesNeoris\obj\Debug\net5.0\EntitiesNeoris.csproj.CoreCompileInputs.cache
+C:\Users\POWER\source\repos\PruebaLeonardo\EntitiesNeoris\obj\Debug\net5.0\EntitiesNeoris.dll
+C:\Users\POWER\source\repos\PruebaLeonardo\EntitiesNeoris\obj\Debug\net5.0\ref\EntitiesNeoris.dll
+C:\Users\POWER\source\repos\PruebaLeonardo\EntitiesNeoris\obj\Debug\net5.0\EntitiesNeoris.pdb
